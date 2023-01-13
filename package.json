@@ -1,0 +1,22 @@
+{
+  "name": "nodetestapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodehubNerd/nodetestapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodehubNerd/nodetestapp/issues"
+  },
+  "homepage": "https://github.com/CodehubNerd/nodetestapp#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
